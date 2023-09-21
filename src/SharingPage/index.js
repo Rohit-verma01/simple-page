@@ -6,6 +6,10 @@ const SharingPage = () => {
     <div>
       <Helmet>
         {/* Twitter Card meta tags */}
+        <meta
+          property="og:image"
+          content="https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-7-600x400.jpg"
+        ></meta>
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Check awesome content" />
         <meta
