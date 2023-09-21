@@ -12,6 +12,8 @@ const SharingPage = () => {
         ></meta>
         <meta property="og:image:width" content="640"></meta>
         <meta property="og:image:height" content="144"></meta>
+      </Helmet>
+      <Helmet>
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Check awesome content" />
         <meta
